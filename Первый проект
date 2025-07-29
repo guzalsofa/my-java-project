@@ -1,1 +1,13 @@
-my first project on github
+# My Java Project
+
+Учебный проект на Java, созданный с использованием Maven.  
+Репозиторий содержит простой `Main.java` с циклом и приветствием.
+
+## Как запустить
+
+- Открыть в IntelliJ IDEA
+- Запустить `Main.main()`
+
+## Автор
+
+Sofya Guzal
